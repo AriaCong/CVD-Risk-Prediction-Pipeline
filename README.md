@@ -38,6 +38,4 @@ original, original modified, or new, and state the change.
 | eFigure 6 (ridge Cox hazard ratios) | Section 22, Cells 81-82 |
 | Variable definition checks (SF-36 scale, CVD variables) | Section 23, Cells 84-86 |
 
-The remaining sections and cells (for example Sections 6b, 6c, 13, 15, 17-21, Cell 83 and the additional
-missing-data strategies in Cell 72) are exploratory checks that are not reported in the manuscript.
-# CVD-Risk-Prediction-Pipeline
+Cell numbers follow the development version and are not consecutive.
